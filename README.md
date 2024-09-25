@@ -95,4 +95,5 @@ Este proyecto se centra en el desarrollo de una base de datos diseñada para ges
  Las tecnologías que se utilizaron para este proyecto fueron HTMl, CSS y JavaScript. 🌟
 
 ## ✍️ Autor
+- Alvaro Martinez
 - Juliana Numa 💻🪫
