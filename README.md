@@ -92,7 +92,7 @@ Este proyecto se centra en el desarrollo de una base de datos diseñada para ges
 
 ## 🚀 Tecnologias utilizadas
 
- Las tecnologías que se utilizaron para este proyecto fueron HTMl, CSS y JavaScript. 🌟
+ Las tecnologías que se utilizaron para este proyecto fueron MySQL como la base de datos relacional, Drawio.io para la realización de diagramas y MySQL Workbench como entorno de desarrollo. 🌟
 
  ## Desarrollo
 
