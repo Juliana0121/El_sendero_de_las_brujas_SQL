@@ -94,6 +94,18 @@ Este proyecto se centra en el desarrollo de una base de datos diseñada para ges
 
  Las tecnologías que se utilizaron para este proyecto fueron HTMl, CSS y JavaScript. 🌟
 
+ ## Desarrollo
+
+Para el desarrollo de una base de datos eficiente y bien estructurada, el primer paso fue la creación de un diagrama Entidad-Relación (ER), en el cual se identificaron cuidadosamente todas las entidades y sus respectivas relaciones. Este diagrama permitió visualizar de manera clara la estructura que tendría la base de datos, ayudando a definir la interconexión entre las diferentes entidades y asegurando que todos los aspectos fueran cubiertos adecuadamente. Durante esta fase, se revisaron aspectos clave como la cardinalidad de las relaciones, los atributos de cada entidad y cómo interactuarían entre sí en el modelo.
+
+Una vez completado el diagrama ER, se procedió a implementar la base de datos en MySQL, eligiendo esta plataforma por su robustez y capacidad para manejar bases de datos relacionales de manera eficiente. Durante esta implementación, se establecieron todas las tablas, junto con sus claves primarias y foráneas, siguiendo estrictamente las relaciones previamente definidas en el diagrama ER. Cada tabla fue diseñada con detalles precisos, incluyendo los tipos de datos apropiados para cada campo, asegurando la integridad y consistencia de la información almacenada.
+
+El proceso de creación de la base de datos fue minuciosamente detallado y documentado paso a paso, con el objetivo de minimizar cualquier posible error durante el desarrollo. Se pusieron en marcha controles de calidad que permitieron revisar cada parte del proceso de implementación, garantizando que los datos ingresados cumplieran con las expectativas de diseño y funcionalidad.
+
+A medida que avanzaba el desarrollo, se fueron identificando ajustes necesarios en algunas áreas de la base de datos. Estas correcciones surgieron conforme se presentaban nuevas necesidades o se descubría información adicional. Algunos ejemplos incluyen la reestructuración de relaciones entre ciertas entidades para hacerlas más flexibles y adaptables, así como la optimización de ciertos campos para mejorar el rendimiento y facilitar futuras expansiones del sistema.
+
+Gracias a este enfoque flexible y la atención constante a los detalles, se lograron realizar los ajustes necesarios sobre la marcha, lo que permitió que la base de datos evolucionara para cumplir con los requisitos que iban surgiendo. Las modificaciones realizadas fueron cuidadosamente evaluadas para asegurar que no comprometieran la integridad de los datos ni la coherencia de las relaciones establecidas. Esto llevó a la consecución de un resultado satisfactorio, con una base de datos sólida, bien organizada y capaz de manejar eficazmente la información requerida.
+
 ## ✍️ Autor
 - Alvaro Martinez
 - Juliana Numa 💻🪫
