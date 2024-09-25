@@ -2,9 +2,14 @@
 
 Este proyecto se centra en el desarrollo de una base de datos diseñada para gestionar y organizar información detallada sobre los distintos tipos de brujas, sus poderes y otras características relevantes. La estructura de la base de datos incluye 11 entidades interconectadas, lo que permite una representación precisa y coherente de la información. Además, se han implementado 40 consultas específicas que permiten extraer datos variados de manera eficiente, ofreciendo una visión completa y flexible del contenido almacenado. ✨
 
-## 🏁 Comenzando
+## 🏁 Requerimientos
 
-Descarga en ZIP, extrae en su equipo. Ya abierto en VS Code, click en "index.html", click izquierzo y live server. 🎉
+- Tener mínimo 10 entidades
+- Se deben plantear 40 consultas DISTINTAS
+- Cada consulta con su descripción y solución
+-  Anexar los respectivos archivos:
+   - ddL.sql -> creaciones (base de datos y tablas)
+   - dML.sql -> Inserciones (Minimo 20 registros por entidad principales) 🎉
 
 ## 📋 Entidades
 
