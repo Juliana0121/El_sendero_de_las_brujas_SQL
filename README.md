@@ -110,9 +110,28 @@ Gracias a este enfoque flexible y la atención constante a los detalles, se logr
 ## Diagrama ER
 ![Diagrama_ER](https://github.com/user-attachments/assets/84546dee-958e-4253-8fb9-51aa9a9bf70b)
 
+Este diagrama representa un diseño detallado de la estructura de datos para un sistema que maneja información sobre brujas, sus habilidades mágicas, clanes, pociones y otros elementos relacionados con un mundo mágico. El modelo permite entender las relaciones entre diferentes aspectos del sistema y cómo se organizará la información en la base de datos.
+
+1. Se creó un modelo de datos que incluye varias entidades principales como "bruja", "amuleto", "conjuro", "clan", "pocion", "ingrediente", y "tipo_bruja".
+2. Cada entidad tiene atributos asociados. Por ejemplo, "bruja" tiene atributos como "nombre", "apellido", y "id_Bruja".
+3. Se establecieron relaciones entre las entidades, representadas por líneas que las conectan. Ejemplo:
+   -  Una bruja puede realizar conjuros (relación "realiza")
+   -  Una bruja puede pertenecer a un clan (relación "pertenece")
+   -  Una bruja puede crear pociones (relación "crea")
+4. Se utilizaron símbolos de diamante para representar relaciones, y rectángulos para representar entidades.
+5. Se modelaron relaciones de muchos a muchos, como la que existe entre "bruja" y "conjuro", lo que implica que una bruja puede realizar múltiples conjuros y un conjuro puede ser realizado por múltiples brujas.
+
 ## Diagrama Modelo Relacional
 ![Diagrama_Modelo_Relacional](https://github.com/user-attachments/assets/a7834c07-2576-46fd-9e52-25e86d5e5e2e)
 
+Este diagrama representa un diseño detallado y estructurado de una base de datos relacional con múltiples entidades interrelacionadas.
+
+1. Se creó un esquema de base de datos relacional con múltiples tablas interconectadas.
+2. Las columnas de cada tabla están listadas con sus nombres y tipos de datos (como INT, NVARCHAR, etc.).
+3. Se establecieron relaciones entre las tablas mediante líneas de conexión, lo que indica las claves foráneas y las asociaciones entre entidades.
+4. Algunas tablas parecen ser tablas de unión, lo que indica relaciones muchos a muchos entre otras entidades.
+5. La organización visual del diagrama sugiere una jerarquía o agrupación lógica de las entidades relacionadas.
+6. La presencia de múltiples tablas interconectadas sugiere un sistema de base de datos normalizado, diseñado para minimizar la redundancia y mantener la integridad de los datos.
 
 ## Consultas
 # 1. Listado de todas las brujas existentes
