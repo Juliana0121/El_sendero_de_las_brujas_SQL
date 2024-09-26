@@ -106,6 +106,177 @@ A medida que avanzaba el desarrollo, se fueron identificando ajustes necesarios 
 
 Gracias a este enfoque flexible y la atención constante a los detalles, se lograron realizar los ajustes necesarios sobre la marcha, lo que permitió que la base de datos evolucionara para cumplir con los requisitos que iban surgiendo. Las modificaciones realizadas fueron cuidadosamente evaluadas para asegurar que no comprometieran la integridad de los datos ni la coherencia de las relaciones establecidas. Esto llevó a la consecución de un resultado satisfactorio, con una base de datos sólida, bien organizada y capaz de manejar eficazmente la información requerida.
 
+
+## Diagrama ER
+![Diagrama_ER](https://github.com/user-attachments/assets/84546dee-958e-4253-8fb9-51aa9a9bf70b)
+
+## Diagrama Modelo Relacional
+![Diagrama_Modelo_Relacional](https://github.com/user-attachments/assets/a7834c07-2576-46fd-9e52-25e86d5e5e2e)
+
+
+## Consultas
+# 1. 
+```
+```
+
+# 2. 
+```
+```
+
+# 3. 
+```
+```
+
+# 4. 
+```
+```
+
+# 5. 
+```
+```
+
+# 4. 
+```
+```
+
+# 7. 
+```
+```
+
+# 8. 
+```
+```
+
+# 9. 
+```
+```
+
+# 10. 
+```
+```
+
+# 11. 
+```
+```
+
+# 12. 
+```
+```
+
+# 13. 
+```
+```
+
+# 14. 
+```
+```
+
+# 15. 
+```
+```
+
+# 16. 
+```
+```
+
+# 17. 
+```
+```
+
+# 18. 
+```
+```
+
+# 19. 
+```
+```
+
+# 20. 
+```
+```
+
+# 21. 
+```
+```
+
+# 22. 
+```
+```
+
+# 23. 
+```
+```
+
+# 24. 
+```
+```
+
+# 25. 
+```
+```
+
+# 26. 
+```
+```
+
+# 27. 
+```
+```
+
+# 28. 
+```
+```
+
+# 29. 
+```
+```
+
+# 30. 
+```
+```
+
+# 31. 
+```
+```
+
+# 32. 
+```
+```
+
+# 33. 
+```
+```
+
+# 34. 
+```
+```
+
+# 35. 
+```
+```
+
+# 36. 
+```
+```
+
+# 37. 
+```
+```
+
+# 38. 
+```
+```
+
+# 39. 
+```
+```
+
+# 40. 
+```
+```
+
+
+
 ## ✍️ Autor
 - Alvaro Martinez
 - Juliana Numa 💻🪫
