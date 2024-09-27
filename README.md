@@ -522,5 +522,5 @@ FROM
 
 
 ## ✍️ Autor
-- [Alvaro Martinez Alcina 🐈🔮](https://github.com/alvaroMartinez13)
+- [Alvaro Martinez 🐈🔮](https://github.com/alvaroMartinez13)
 - [Juliana Numa 💻🧁](https://github.com/Juliana0121)
